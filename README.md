@@ -1,5 +1,5 @@
 # Diabetes Readmission Prediction
-![](image_1.jpg)
+![](image_1.png)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -53,8 +53,6 @@ The Random Forest Classifier yielded the best performance, with an accuracy of a
 
 ![](image_2.png)
 
-
-![](image_2.png)
 ![](image_3.png)
 
 ## Conclusion
