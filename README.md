@@ -46,19 +46,13 @@ The following models were trained and evaluated:
 - XGBoost Classifier
 - Nearest Centroid Classifier
 
-  ⚙️ Libraries used:
-```python
-pandas, scikit-learn, xgboost, seaborn, matplotlib
-
-Final Model Choice
+## Final Model Choice
 The Random Forest Classifier yielded the best performance, with an accuracy of approximately 88% and strong recall on the minority class (readmitted).
 
 🔍 Top 10 Predictive Features (Feature Importance):
 
 ![](image_4.png)
 
-## Integration
-The final model was integrated into a web application using Flask and Streamlit, allowing for real-time sentiment analysis and easy accessibility for stakeholders.
 
 ![](image_2.png)
 ![](image_3.png)
