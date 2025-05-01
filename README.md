@@ -51,7 +51,7 @@ The Random Forest Classifier yielded the best performance, with an accuracy of a
 
 🔍 Top 10 Predictive Features (Feature Importance):
 
-![](image_4.png)
+![](image_2.png)
 
 
 ![](image_2.png)
